@@ -1,0 +1,16 @@
+
+
+
+	1. INTRODUZIONE
+		
+	Questa applicazione didattica è una variante del 
+	Gioco della Dama conosciuto in tutto il mondo, ed è
+	stata sviluppata in linguaggio Java in modo da poter
+	essere compatibile sia in ambiente Windows che Unix.
+	E' una variante in quanto le regole utilizzate in questa
+	applicazione non coincidono a pieno con le regole ufficiali
+	del gioco della Dama.
+	
+	Per conoscere tutte le regole del nostro Gioco della Dama, 
+	clicca sul capitolo successivo nella lista alla tua sinistra !
+	

@@ -1,0 +1,34 @@
+
+
+
+	2. REGOLE E MODALITA DI GIOCO
+	
+	In questa applicazione vengono utilizzate quasi tutte 
+	le regole ufficiali del gioco, facciamo un riepilogo!
+	La scacchiera è formata da 8 caselle per lato, di 
+	colore biano e nero ,ed ogni giocatore possiede	12 
+	pedine; ogni partita è giocata da due giocatori,l'utente
+	e il computer.
+	I colori possibili sono i classici bianco e nero, e 
+	per ogni partita sarà il giocatore bianco a partire;
+	Ogni pedina può muoversi solo nelle caselle di colore 
+	nero ed esclusivamente in diagonale e verso il bordo 
+	opposto al suo;	Se una pedina raggiunge il bordo opposto,
+	questa diventa dama,acquistando di conseguenza la capacità
+	di poter tornare indietro nella scacchiera, e di poter 
+	essere mangiata solo dalle dame avversarie; si possono
+	anche mangiare più di una pedina/dama in una mossa sola
+	con la stessa pedina/dama,sempre seguendo le regole.
+	
+	L'obiettivo del gioco è di mangiare tutte le pedine del
+	giocatore avversario, oppure di lasciarlo senza mosse 
+	disponibili; l'unica differenza rispetto alle regole ufficiali
+	è che in questa	versione non si è obbligati a mangiare la 
+	pedina o dama del giocatore avversario.
+	
+	In questa applicazione è possibile fare partite singole,
+	oppure una volta finita una partita, continuare con la
+	prossima tenendo conto delle partite precedenti, ovvero
+	partecipare ad una sessione di gioco.
+	
+	

@@ -1,0 +1,26 @@
+
+
+
+	5. CRONOLOGIA
+	
+	Una caratteristica ulteriore di questa interfaccia è
+	la possibilità di vedere come si è svolta la partita
+	corrente mossa per mossa; questò è possibile abilitando
+	tramite un tasto di selezione a due stati presente nella
+	barra di menù in Visualizza->Cronologia una finestra in 
+	cui viene visualizzata la cronologia della partita in
+	formato testuale, ovvero viene indicato con le lettere
+	minuscole le pedine (b bianche  e n nere) e con le lettere
+	maiuscole le dame (B bianche N nere), simulando una 
+	scacchiera; per ogni mossa viene visualizzata la scacchiera,
+	il nome del giocatore, la data e l'ora.
+	
+	La finestra della cronologia ha a sua volta una barra dei
+	menù con la sola voce file, dove è possibile salvare la
+	cronologia come file di testo, selezionando la destinazione
+	del file(con gli opportuni controlli se il file già esiste),
+	oppure impostare lo stato della finestra sempre in primo piano,
+	andando quindi a sovrapporre le altre finestre presenti sullo
+	schermo, schacchiera compresa; per disabilitare questa finestra
+	bisogna deseleziona la voce di menù nell'interfaccia della
+	finestra principale del Gioco della Dama in Visualizza->Cronologia.

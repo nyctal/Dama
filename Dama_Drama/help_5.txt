@@ -1,0 +1,39 @@
+
+
+
+	6. REQUISITI MINIMI
+	
+	Il gioco della Dama è una applicazione molto
+	leggera, e creata a scopo didattico, per cui
+	i requisiti minimi risultano molto banali.
+	
+	A livello hardware è necessario un pc basato su
+	architetture x86 e a 64 bit, con tastiera e mouse
+	100% compatibili, e scheda grafica VGA a 65536 colori;
+	per quanto riguarda lo spazio su disco sono necesseri 
+	circa 10 MB di spazio libero per l'applicazione, e se 
+	necessari circa 160MB di spazio	per installare la 
+	piattaforma Java più recente (attualmente v6.14).
+	
+	A livello software, essendo un applicazione basata su
+	Java è necessario avere installato nel proprio
+	sistema la piattaforma Java della Sun Microsystems,
+	possibilmente la più aggiornata possibile, che è 
+	possibile scaricare gratuitamente a questo indirizzo:
+	
+	http://www.java.com/it/download/manual.jsp
+	
+	Java è un linguaggio basato sul concetto di 
+	macchina virtuale, per cui è possibile eseguire le
+	applicazioni basate su questo linguaggi su quasi tutti
+	i sistemi hardware e software, per cui è sicuramente
+	compatibile con i sistemi Microsoft Windows(TM), Unix(TM)
+	e derivati, e piattaforme Apple Mac OS(TM).
+	
+	7. NOTE FINALI
+	
+	L'applicazione è stata testata su piattaforme Microsoft
+	Windows XP Pro, Microsoft Windows Vista Home Premium e 
+	Linux Ubuntu 9.04 con successo.
+	
+	

@@ -1,0 +1,42 @@
+
+
+
+	3. USO DELL' INTERFACCIA
+	
+	L'interfaccia mostrata in questa applicazione è molto
+	semplice ed intuitiva; l'applicazione è formata da una
+	finestra principale in cui al centro troviamo la scacchiera,
+	sul lato sinistro vengono visualizzate le statistiche della
+	sessione e su quello destro le statistiche della partita attuale.
+	In alto troviamo la classica barra di menù con tre voci:
+
+	Partita, Visualizza e ?.
+
+	All' avvio dell'applicazione la scacchiera sarà vuota e così
+	anche le statistiche; per iniziare la partita l'utente deve
+	cliccare nella barra dei menù Partita->Nuova partita (se è la
+	prima partita dall'avvio dell'applicazione va bene anche Nuova
+	Sessione); successivamente verranno chiesti il nome dell'utente
+	e il colore scelto e cliccando su OK inizierà la partita; Come 
+	già detto parte per primo il giocatore di colore bianco.
+	
+	Per effettuare una mossa è necessario selezionare una pedina
+	cliccandoci sopra col mouse(la selezione è evidenziata dalla
+	illuminazione della pedina/dama) e successivamente cliccare 
+	sulla casella di destinazione; per la mossa multipla si ripete
+	il procedimento. 
+	Dopo ogni mossa dell'utente, quest' ultimo ha un numero di	
+	secondi di tempo prima che il computer effettui	la propria 
+	mossa(tempo che sarà utile per effettuare la doppia	mossa,
+	ed è impostato a 1,5 secondi di default); il passare del
+	tempo sarà evidenziato dalla barra di scorrimento nella 
+	parte inferiore dell'interfaccia. 
+	
+	Una volta conclusasi la partita, si apre in automatico una 
+	finestra in cui vengono mostrate le statiche della partita
+	appena giocata e della sessione e in cui si ha la possibilità
+	di fare una nuova partita, mantenendo aperta la sessione,
+	iniziare una nuova sessione(verranno chiesti di nuova nome
+	e colore), di cambiare le opzioni oppure di uscire dal gioco.
+	
+	

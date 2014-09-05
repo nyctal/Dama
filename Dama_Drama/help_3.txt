@@ -1,0 +1,31 @@
+
+
+
+	4. OPZIONI 
+	
+	Le opzioni presenti in questa applicazione riguardano
+	principalmente l'aspetto visivo e la difficoltà di gioco.
+	
+	Per quanto riguarda l'aspetto visivo è possibile scegliere
+	tra 8 temi diversi, vale a dire marble(di default), wood,
+	texture, carbon, blood, altenative green, chinese pink e
+	volcano; per ogni tema cambiano le immagini delle pedine e
+	della sscacchier e il colore delle scritte e dello sfondo
+	dei pannelli delle statistiche.
+	
+	Per quanto riguarda la difficoltà di gioco, è possibile
+	abilitare o disabilitare funzioni che aiutano l'utente nello
+	svolgimento di una partita, come la visualizzazione delle
+	mosse possibili, ovvero selezionando una pedina e muovendo il
+	mouse, vengono illuminate da un ombra verde le caselle in cui
+	è possibile muoversi; altra opzione utile è l'abilitazione
+	dei suggerimenti (di default abilitati), che disabilita/abilita
+	nell'interfaccia un pulsante che visualizza la mossa migliore,
+	ovvero seleziona la pedina da muovere e visualizza un ombra blu
+	sulla casella di destinazione.
+	
+	Infine è possibile modificare il tempo di risposta del computer,
+	tramite una barra scrorrevole che modifica il valore del tempo
+	in un range tra 1,5 e 7 secondi (è possibile anche inserire il
+	numero direttamente nel campo di testo accanto alla barra); il
+	tempo di riposta del computere è impostato di default a 1,5 secondi.
